@@ -6,4 +6,5 @@ appropirate translations and rotations.
 There are two menu options: The default one is that the cube is rotating around its center at (0, 0, -β) and a vector (x, y, z). The second one spins the cube around 
 (0, 0, -8*β/10).
 The app uses double buffering, and depth buffering to hide hidden surfaces.
-NOTE: If using Microsoft Visual Studio
+
+NOTE: If using Microsoft Visual Studio make sure that the Active solution platform is x86 (Build -> Configuration Manager).
